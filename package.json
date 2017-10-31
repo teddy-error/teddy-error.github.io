@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:teddy-error/teddy-error.github.io.git",
+  "author": "Bin Ury",
+  "license": "MIT"
+}
